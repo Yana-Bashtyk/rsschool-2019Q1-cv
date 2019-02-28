@@ -12,7 +12,7 @@ As a committed team player I'm reliable and responsible person, active listener 
 
 ## Skills  
 
-> **Tools:**   
+> ### Tools:   
 > * HTML   
 > * CSS  
 > * Javascript, JQuery, React   
@@ -20,14 +20,14 @@ As a committed team player I'm reliable and responsible person, active listener 
 > * Webpack 4  
 > * Nodejs  
 
-> **Code examples:**  
+> ### Code examples:   
 > * [*CV*](https://github.com/Yana-Bashtyk/rsschool-codejam1-cv)  
 > * [*Game*](https://github.com/Yana-Bashtyk/game)  
 > * [*Culture portal*](https://github.com/petriken/CodeJam-5_Dream-Team)  
 > * [*Mentor dashboard*](https://github.com/Yana-Bashtyk/dashboard-ghpages)  
 > * [Codewars profile](https://www.codewars.com/users/Yana-Bashtyk)  
 
-> **Language proficiency:** English: B1+/B2, German: C1  
+> ### Language proficiency: English: B1+/B2, German: C1  
 
 ## Education  
 
@@ -41,12 +41,14 @@ As a committed team player I'm reliable and responsible person, active listener 
 
 ## Experience  
 
-> **RSSchool**  
-> *Student Sept 2018 - present time*
-> **HTML academy**
-> *Student 2018 - present time*  
-> Trainig cources on HTML, CSS. Profile: https://htmlacademy.ru/profile/id510167  
-> **Epam Systems**  
+> ### RSSchool  
+> *Student Sept 2018 - present time*   
+
+> ### HTML academy   
+> *Student 2018 - present time*   
+> Trainig cources on HTML, CSS. Profile: https://htmlacademy.ru/profile/id510167   
+
+> ### Epam Systems     
 > *Content strategist Sept. 2017 - present time*  
 > * Review, analysis and verification of site requirements and content assets;  
 > * Clarification of requirement's gaps and ambiguities with customer representatives;  
@@ -54,14 +56,17 @@ As a committed team player I'm reliable and responsible person, active listener 
 > * Content upload and front-end/layout changes;  
 > * Participation in website acceptance testing and UAT;   
 > * Daily meetings and planning sessions, working in cooperation with team members.   
-> **Educational Center of HTP (IT-Academy)**  
+
+> ### Educational Center of HTP (IT-Academy)   
 > *Business Analyst March 2017*  
 > * Elicitation, documentation, design and management of software requirements.  
-> Tools & technologies used: UML, Bizagi Modeler, MS Visio, MS Word, mindmeister.com  
-> **Translators and Interpreters’ Guild**  
+> Tools & technologies used: UML, Bizagi Modeler, MS Visio, MS Word, mindmeister.com   
+
+> ### Translators and Interpreters’ Guild   
 > *Translator 2016 - 2017*  
 > * Translation of the official documents, e-mails, instructions.  
-> **Minsk Department of the Belarusian Chamber of Commerce and Industry**   
+
+> ### Minsk Department of the Belarusian Chamber of Commerce and Industry   
 > *Translator(Internship) 2016*  
 > * Translation of the official documents, e-mails, instructions.  
 
