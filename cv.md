@@ -27,7 +27,8 @@ As a committed team player I'm reliable and responsible person, active listener 
 > * [*Mentor dashboard*](https://github.com/Yana-Bashtyk/dashboard-ghpages)  
 > * [Codewars profile](https://www.codewars.com/users/Yana-Bashtyk)  
 
-> ### Language proficiency: English: B1+/B2, German: C1  
+> ### Language proficiency:   
+> English: B1+/B2, German: C1  
 
 ## Education  
 
