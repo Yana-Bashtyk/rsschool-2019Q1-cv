@@ -2,9 +2,11 @@
 
 ## Front-end developer 
 
-*Contacts*  
+*Contacts*    
 Phone: [+375 29 104 58 62](tel:+375291045862)  
 Email: [yankabashtyk16@gmail.com](mailto:yankabashtyk16@gmail.com)  
+Skype: [ybashtyk](skype:ybashtyk?chat)  
+LinkedIn: [Yana Bashtyk](https://www.linkedin.com/in/yana-bashtyk)  
 
 *Summary*  
 
