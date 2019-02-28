@@ -2,7 +2,8 @@
 
 ## Front-end developer 
 
-*Contacts*    
+*Contacts*   
+  
 Phone: [+375 29 104 58 62](tel:+375291045862)  
 Email: [yankabashtyk16@gmail.com](mailto:yankabashtyk16@gmail.com)  
 Skype: [ybashtyk](skype:ybashtyk?chat)  
@@ -72,6 +73,7 @@ As a committed team player I'm reliable and responsible person, active listener 
 > ### Minsk Department of the Belarusian Chamber of Commerce and Industry   
 > *Translator(Internship) 2016*  
 > * Translation of the official documents, e-mails, instructions.  
+
 
 *Minsk, February 2019*
 
