@@ -6,14 +6,15 @@ body {
   line-height: 24px; 
 }
 
-header {
-  margin: 20px;
-}
-
 .wrapper { 
   max-width: 1024px; 
   margin: 60px auto;
 }
+
+header {
+  margin: 20px;
+}
+
 main { 
   display: flex;
   flex-flow: column;
@@ -41,9 +42,13 @@ p.objective {
   border-bottom: 1px solid #999999;
 }
 
-.social-media-link {
-  display: inline-block;
-  margin: 0px 6px 5px;
+span.fab {
+  font-size: 25px;
+  color: black;
+}
+
+a span.fab:hover {
+  color: #e68a00;
 }
 
 h3 { 
@@ -52,7 +57,7 @@ h3 {
   color: #e68a00;
 }
 
-span {
+.row-description span {
   margin-bottom: 15px;
 
   font: 17px "Istok Web", Arial, Helvetica, sans-serif;
