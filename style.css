@@ -1,0 +1,123 @@
+body { 
+  max-width: 1024px;
+  margin: 20px auto;
+
+  font: 17px "Istok Web", Arial, Helvetica, sans-serif; 
+  line-height: 24px; 
+}
+
+.wrapper { 
+  max-width: 1024px; 
+  margin: 60px auto;
+}
+
+header {
+  margin: 20px;
+}
+
+main { 
+  display: flex;
+  flex-flow: column;
+  margin: 20px;
+}
+
+.profile-photo { 
+  float: right; 
+  margin: 0; 
+}
+
+h1 {
+  margin: 0; 
+  padding: 0 0 20px;
+
+  font: 50px "Open Sans", Arial, Helvetica, sans-serif;
+  font-weight: bold;  
+}
+
+p.objective {
+  margin: 0 0 15px; 
+  padding: 0 0 15px 20px;
+
+  font-size: 30px;
+  border-bottom: 1px solid #999999;
+}
+
+span.fab {
+  font-size: 25px;
+  color: black;
+}
+
+a span.fab:hover {
+  color: #e68a00;
+}
+
+h3 { 
+  font: 18px "Open Sans", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #e68a00;
+}
+
+.row-description span {
+  margin-bottom: 15px;
+
+  font: 17px "Istok Web", Arial, Helvetica, sans-serif;
+  font-style: italic;  
+  color: #999999; 
+}
+
+p { 
+  margin: 0 0 16px; 
+}
+
+a { 
+  font-size: 16px;
+  color: #999999; 
+  text-decoration: none;
+
+  border-bottom: 1px dotted #999999; 
+}
+
+a:hover {
+  color: #e68a00;
+  
+  border-bottom-style: solid;
+}
+
+ul { 
+  margin: 0 0 15px 5px; 
+}
+
+section.overview {
+  width: 100%;
+}
+
+.overview-row {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100%;
+  margin: 12px;
+  padding: 20px 0 0;
+}
+
+.row-title h2 {
+  font-style: italic;
+  font-size: 22px;
+}
+
+.row-description {
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 0 25px 0 30px;
+
+  border-left: 1px solid #999999;
+}
+
+footer {
+  margin: 80px 0 0;
+
+  font-style: italic; 
+  font: 16px "Open Sans", Arial, Helvetica, sans-serif;
+  text-align: center; 
+  color: #999999; 
+}
+

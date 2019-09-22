@@ -1,3 +1,5 @@
 # rsschool-2019Q1-cv   
 
-https://yana-bashtyk.github.io/rsschool-2019Q1-cv/cv
+Markdown: https://yana-bashtyk.github.io/rsschool-2019Q1-cv/cv   
+CV: https://yana-bashtyk.github.io/rsschool-2019Q1-cv/
+
